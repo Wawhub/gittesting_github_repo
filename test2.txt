@@ -1,1 +1,4 @@
 Plik test 2
+
+
+Test bez struktury
