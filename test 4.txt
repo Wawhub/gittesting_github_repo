@@ -1,3 +1,4 @@
 Test numer 4
 Zmiana numer 1
 Zmiana numer 2
+Zmiana numer 3
