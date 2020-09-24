@@ -1,1 +1,2 @@
-Pierwszy zdalny commit
+Pierwszy zdalny commit 
+Modyfikacja testowa
